@@ -1,0 +1,11 @@
+{
+  "name": "moccasym.github.io",
+  "version": "1.0.0",
+  "description": "# This is just for the purpose of learning git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
